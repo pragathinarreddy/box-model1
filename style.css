@@ -1,0 +1,36 @@
+.image {
+    width: 300px;
+    height: 300px;
+    border-radius:20px ;
+    
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: red;
+    
+}
+
+a {
+    border-bottom: 3px dashed blue;
+    text-decoration: none;
+    background-color: #A1A1A1;
+    padding: 16px;
+    display: inline-block;
+}
+.heading {
+    border: 1px;
+    border: red;
+    background-color: #D18C1D;
+    padding: 10px;
+    text-align: center;
+}
+.paragraph{
+    width: 600px;
+    height: 400px;
+    border: 2px dotted black;
+    background-color: #d1d631;
+    padding: 24px;
+}
